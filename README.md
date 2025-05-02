@@ -8,7 +8,7 @@ This project is a Home Automation System designed for the TM4C123GXL microcontro
 - **FreeRTOS:** Leverages FreeRTOS for multitasking, ensuring real-time operation and efficient resource management for control of devices and sensors.
 - **Simulation:** Simulates smart home operations with multiple rooms, each equipped with sensors and devices that are independently controlled.
 
-#### OOP Design
+#### 🧱 OOP Design
 **`Room` Base class**   
 &nbsp;&nbsp;&nbsp;&nbsp;•Represents a room in the home.   
 &nbsp;&nbsp;&nbsp;&nbsp;•Derived classes: `LivingRoom`, `BedRoom`.    
